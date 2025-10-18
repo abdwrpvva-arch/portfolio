@@ -5,6 +5,7 @@
 }
 body {
   font-family: sans-serif;
+  background:linear-gradient(rgb(199, 228, 224));
 }
 .container{
     max-width: 1200px;
