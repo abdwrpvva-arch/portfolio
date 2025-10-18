@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 .hero {
-  background-color: #f7f0fd;
+  background-color: #d6b2f5;
   padding: 60px 0;
 }
 section {
@@ -19,7 +19,7 @@ section {
     padding: 25px 30px;
     margin-bottom: 30px;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.07);
   }
 
   section h2 {
